@@ -32,12 +32,12 @@
 	}
 	@media (max-width: 800px) {
 		button {
-			height: 50px;
-			min-height: 50px;
-			max-height: 50px;
-			width: 50px;
-			min-width: 50px;
-			max-width: 50px;
+			height: 55px;
+			min-height: 55px;
+			max-height: 55px;
+			width: 55px;
+			min-width: 55px;
+			max-width: 55px;
 			font-size: 0.4em;
 		}
 	}
