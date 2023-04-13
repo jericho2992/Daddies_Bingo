@@ -64,4 +64,14 @@
 		max-width: 500px;
 		min-width: 500px;
 	}
+	@media (max-width: 800px) {
+		.main {
+			width: 250px;
+			max-width: 250px;
+			min-width: 250px;
+			height: 250px;
+			max-width: 250px;
+			min-width: 250px;
+		}
+	}
 </style>
