@@ -30,4 +30,15 @@
 		min-width: 100px;
 		max-width: 100px;
 	}
+	@media (max-width: 800px) {
+		button {
+			height: 50px;
+			min-height: 50px;
+			max-height: 50px;
+			width: 50px;
+			min-width: 50px;
+			max-width: 50px;
+			font-size: 0.5em;
+		}
+	}
 </style>
