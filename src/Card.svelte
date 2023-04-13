@@ -5,7 +5,7 @@
 	let card = ["placeholder"];
 	let squares = [
 		"Sonic",
-		"Ashley Burch",
+		"Ashly Burch",
 		"Return of the P*ussy Wag*on",
 		"Hero and Taylor flirt",
 		"Scary is an anchor",
