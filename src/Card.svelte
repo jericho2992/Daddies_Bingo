@@ -66,12 +66,12 @@
 	}
 	@media (max-width: 800px) {
 		.main {
-			width: 250px;
-			max-width: 250px;
-			min-width: 250px;
-			height: 250px;
-			max-width: 250px;
-			min-width: 250px;
+			width: 275px;
+			max-width: 275px;
+			min-width: 275px;
+			height: 275px;
+			max-width: 275px;
+			min-width: 275px;
 		}
 	}
 </style>
